@@ -61,8 +61,10 @@ O projeto adota uma arquitetura **Single-File Application (SFA)**, onde o arquiv
 
 ```
 medcare-it-asset-intelligence/
-├── index.html       # Arquivo único (HTML + CSS inline + JS + JSON de dados)
-└── README.md        # Documentação completa do repositório
+├── base de dados/
+│   └── inventario_computadores_medcare_2026.xlsx  # Base de dados original (Excel)
+├── index.html                                    # Arquivo único (HTML + CSS inline + JS + JSON de dados)
+└── README.md                                     # Documentação completa do repositório
 ```
 
 ---
